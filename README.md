@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD shrinu
 # Ai-image-generator
 =======
 # Ai-image-Generator
